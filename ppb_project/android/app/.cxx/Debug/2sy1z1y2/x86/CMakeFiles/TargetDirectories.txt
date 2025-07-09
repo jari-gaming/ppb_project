@@ -1,0 +1,2 @@
+D:/Final_ppb_asli/ppb_project/android/app/.cxx/Debug/2sy1z1y2/x86/CMakeFiles/edit_cache.dir
+D:/Final_ppb_asli/ppb_project/android/app/.cxx/Debug/2sy1z1y2/x86/CMakeFiles/rebuild_cache.dir
