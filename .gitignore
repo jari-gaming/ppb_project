@@ -1,12 +1,7 @@
+
 # Folder dependensi Node.js
-# Sangat besar dan bisa dibuat ulang dengan `npm install`
 /proyek-api-film/node_modules/
 
-# Folder build dan tools Flutter
-# Dibuat otomatis oleh Flutter
+# Folder-folder yang dibuat otomatis oleh Flutter
 /ppb_project/build/
 /ppb_project/.dart_tool/
-/ppb_project/.pub-cache/
-
-# File-file umum sistem operasi
-.DS_Store
